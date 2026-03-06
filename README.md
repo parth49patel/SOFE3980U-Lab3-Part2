@@ -288,4 +288,5 @@ What do pipeline, node, agent, stage, and steps mean in the context of Jenkins?
 * An audible video of about 3 minutes showing the design part.
 
 ## Running the Pipeline  
-Try 1
+Try 1 - Falied due to wrong source  
+Try 2
